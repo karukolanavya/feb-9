@@ -1,0 +1,13 @@
+a=int(input("enter a number:"))
+b=int(input("enter a number:"))
+if a>b:
+    print("a is big",a)
+else:
+    print("b is big",b)
+
+output
+
+enter a number:15
+enter a number:9
+a is big 15
+> 
